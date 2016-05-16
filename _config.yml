@@ -1,13 +1,13 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              Damjan Nisevic
+bio:                "Technology. Web Development. Gaming"
+description:        "Fascinated by all things tech."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/background.jpg'
 locale:             en_US
-url:                http://taylantatli.me/Moon
+url:                http://localhost:4000
 
 # Jekyll
 permalink:          /:title/
@@ -37,18 +37,18 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github:             username
+twitter:            dnisevic1
+#facebook:           username
+github:             D-Nis
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+instagram:          dam_jan
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-steam:              username
+steam:              dam_jan
 #dribbble:          username
 #youtube:           username
 #soundcloud:        username
