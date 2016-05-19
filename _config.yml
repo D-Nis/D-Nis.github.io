@@ -4,7 +4,7 @@ bio:                "Technology. Web Development. Gaming"
 description:        "Fascinated by all things tech."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/portrait.jpg'
 background:         'assets/img/background.jpg'
 locale:             en_US
 url:                http://localhost:4000
