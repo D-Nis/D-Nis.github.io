@@ -7,7 +7,7 @@ words_per_minute:   200
 logo:               'assets/img/portrait.jpg'
 background:         'assets/img/background.jpg'
 locale:             en_US
-url:                http://localhost:4000
+url:                http://damjannisevic.com
 
 # Jekyll
 permalink:          /:title/
