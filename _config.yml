@@ -4,8 +4,14 @@ bio:                "Technology. Web Development. Gaming"
 description:        "Fascinated by all things tech."
 reading_time:       true
 words_per_minute:   200
+<<<<<<< HEAD
 logo:               'assets/img/portrait.jpg'
 background:         'assets/img/background.jpg'
+=======
+logo:               'assets/img/logo.png'
+background:         'assets/img/placeholder-big.jpg'
+tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+>>>>>>> TaylanTatli/master
 locale:             en_US
 url:                http://damjannisevic.com
 
